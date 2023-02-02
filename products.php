@@ -12,11 +12,11 @@
         }
 
         function setDescription($description){
-            $this->description = $description
+            $this->description = $description;
         }
 
         function setPrice($price){
-            $this->price = $price
+            $this->price = $price;
         }
 
 
