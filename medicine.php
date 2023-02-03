@@ -1,7 +1,7 @@
 <?php 
     require_once "products.php";
 
-    class Medicine extends products {
+    class Medicine extends Products {
 
         private $dose;
         private $type;
