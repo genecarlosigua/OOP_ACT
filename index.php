@@ -1,6 +1,6 @@
 <?php
-    require_once "Medicine.php";
-    require_once "Cart.php";
+    require_once "medicine.php";
+    require_once "cart.php";
 ?>
 
 <!DOCTYPE html>
